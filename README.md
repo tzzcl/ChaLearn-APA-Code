@@ -1,4 +1,4 @@
-Team NJU-LAMDA For ChaLearn LAP. Apparent Personality Analysis: First Impressions Test Code
+Team NJU-LAMDA For ChaLearn LAP. Apparent Personality Analysis: First Impressions Test Code. The Code Follows MIT license.
 
 Operating System:
   Ubuntu Linux
