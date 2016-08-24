@@ -1,6 +1,6 @@
 #Team NJU-LAMDA For ChaLearn LAP. Apparent Personality Analysis: First Impressions Test Code. The Code Follows MIT license.
 
-##This packages were developed by Mr. Chen-Lin Zhang (zhangcl@lamda.nju.edu.cn). For any problem concerning the code, please feel free to contact Mr. Zhang. This packages are free for academic usage. You can run them at your own risk. For other purposes, please contact Prof. Jianxin Wu (wujx2001@gmail.com).
+##This package was developed by Mr. Chen-Lin Zhang (zhangcl@lamda.nju.edu.cn). For any problem concerning the code, please feel free to contact Mr. Zhang. This packages are free for academic usage. You can run them at your own risk. For other purposes, please contact Prof. Jianxin Wu (wujx2001@gmail.com).
 
 
 ##Operating System:
