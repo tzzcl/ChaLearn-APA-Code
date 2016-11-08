@@ -1,4 +1,4 @@
-#Source codes of _NJU-LAMDA_ for the ChaLearn LAP 2016 challenge. The Code Follows MIT license.
+#Source codes of _NJU-LAMDA_ for the ChaLearn LAP 2016 challenge (The Code Follows MIT license.)
 
 ##This package was developed by Mr. Chen-Lin Zhang (zhangcl@lamda.nju.edu.cn). For any problem concerning the code, please feel free to contact Mr. Zhang. This packages are free for academic usage. You can run them at your own risk. For other purposes, please contact Prof. Jianxin Wu (wujx2001@gmail.com).
 
