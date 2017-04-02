@@ -31,14 +31,14 @@
 #### 2. Extract Audio Feature From Video
 ####   Suppose you have download all the data needed in the current folder, these will be many *.zip files.
 
-####Extract wav files from the mp4 video files
+#### Extract wav files from the mp4 video files
 ```bash
      shell extract.sh                # Unzip all the *.zip files.
      shell mp42wav.sh                # Extract wav files from mp4 files in the current directory.
 ```
 ####   Save these file into ./train_wav/ ./test_wav/ folders seperately
 
-####Extract audio features from wav, each into a csv file.
+#### Extract audio features from wav, each into a csv file.
 ```python
      python wav2logfbank.py
 ```
